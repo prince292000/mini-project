@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+li{
+    font-size: 3rem ;
+    list-style:circle;
+    list-style: none;
+}
+
+h1{
+    font-size: 3rem;
+    margin: 1rem
+}
+
+ul{
+    text-align: center;
+}
+
+
+.primary_div{
+    height: 100vh;
+    border: 2px solid black;
+    display: grid;
+    place-items: center;
+}
+
+
+
