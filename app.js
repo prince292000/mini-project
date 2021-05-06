@@ -1,6 +1,6 @@
 const ul = document.querySelector("ul");
 const body = document.querySelector("body");
-const h1 = document.querySelector("h1");
+const h1 = document.querySelector("h2");
 const li = document.querySelector("li");
 
 const length = ul.children.length;
